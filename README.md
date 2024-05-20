@@ -1,9 +1,4 @@
 ### Go Web Server
-
-```sh
-go run .
-```
-
 ```sh
 localhost:4000/
 ```
